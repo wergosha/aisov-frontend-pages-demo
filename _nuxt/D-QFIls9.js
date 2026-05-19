@@ -1,1 +1,0 @@
-import"./oQzU0fZO.js";const e=new Intl.NumberFormat("ru-RU",{maximumFractionDigits:2});function o(r){const t=typeof r=="number"?r:Number(r??0);return Number.isFinite(t)?e.format(t):"0"}const s=globalThis.setInterval;export{o as f,s};
